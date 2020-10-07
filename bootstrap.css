@@ -10,7 +10,7 @@ body {
     padding: 50px;
 } 
 
-.cuerpo {
+.section {
     background-color: #1abc9c;
     text-align: center;
     padding-top: 50px;
@@ -26,25 +26,47 @@ body {
     display: inline-block;
     margin-right: 50px;
 }
-img {
+.img-pancito {
     width: 200px;
+}
+h2 {
+    font-size: 35px;
 }
 .portfolio {
     text-align: center;
     color: #343a40;
-    font-size: 25px;
+    padding-top: 40px;
 }
+.imgs-top {
+    width: 300px;
+    display: inline-block;
+    padding-top: 40px;
+    margin: 18px;
+}
+.imgs-top img {
+    text-align: center;
+    width: 100%;
+}
+.imgs-bottom {
+    width: 300px;
+    display: inline-block;
+    padding-bottom: 40px;
+    margin: 18px;
+}
+.imgs-bottom img {
+    text-align: center;
+    width: 100%;
+    }
 .about {
     display: inline-block;
-    background-color:#1abc9c ;
+    background-color:#1abc9c; 
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    font-size: 25px;
-
-}
-.img-menu {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    }
+p {
     display: inline-block;
-    text-align: center;
-    padding-bottom: 50px;
+    width: 300px;
+    text-align: left;
+    margin-left: 10px;
 }
